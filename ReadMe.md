@@ -1,5 +1,5 @@
 # 💫 I'm a Super Coding Star:
-Hello, guys. As a programmer I'm always proud of my ability. I'm highly motivated and dedicated full-stack developer with extensive experience in both frontend and backend development. I've worked on variety of projects and completed in time perfectly and enjoy solving complex problems with creative and efficient coding solutions. And also I have a deep understanding of blockchain technologies and work on creating and managing decentralized applications. If you are finding a senior web developer then just call me. I'll do my best for your project.
+Hello, guys. As a Software Engineer I'm always proud of my ability. I'm highly motivated and dedicated full-stack developer with extensive experience in both frontend and backend development. I've worked on variety of projects and completed in time perfectly and enjoy solving complex problems with creative and efficient coding solutions. And also I have a deep understanding of blockchain technologies and work on creating and managing decentralized applications. If you are finding a senior web developer then just call me. I'll do my best for your project.
 
 
 # 💻 Tech Stack:
